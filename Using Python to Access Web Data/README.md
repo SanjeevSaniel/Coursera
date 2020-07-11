@@ -4,4 +4,4 @@
 2. Assignment: 
 3. Assignment: Understanding the Request / Response Cycle
 4. Assignemnt: Scraping HTML Data with BeautifulSoup
-   Assignemnt: Following Links in HTML Using BeautifulSoup
+5. Assignemnt: Following Links in HTML Using BeautifulSoup
